@@ -7,3 +7,4 @@ The file SQLProductsGT25 shows fields productname, unit, and price from the prod
 The file NetworkDesign is an example of an infrastructure topology and I selected it because it shows both wired and wireless topologies.
 The file MyHTML is an example of coding using html 
 the file MyPage tells people about the brand YoungLA
+the file MyPageWithCSS shows a html website with different colors for each text as well as background
